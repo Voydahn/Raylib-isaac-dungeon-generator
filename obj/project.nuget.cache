@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ipgEuVz7z50=",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\JetBrains\\Rider\\Raylib\\IsaacDungeonGenerator\\IsaacDungeonGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\noelp\\.nuget\\packages\\raylib-cs\\7.0.1\\raylib-cs.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
